@@ -2,6 +2,8 @@
 
 A simple **TypeScript** logging library that provides functions to record **INFO**, **WARN**, and **ERROR** messages with a consistent timestamp format (`YYYY-MM-DD HH:mm:ss`). Ideal for Node.js/TypeScript projects that need uniform, easy-to-use logging.
 
+NPM Link: [ts-logger-lib](https://www.npmjs.com/package/ts-logger-lib)
+
 ---
 
 ## Table of Contents
