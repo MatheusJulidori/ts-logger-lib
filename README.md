@@ -29,12 +29,10 @@ NPM Link: [ts-logger-lib](https://www.npmjs.com/package/ts-logger-lib)
 ## Installation
 
 ```bash
-npm install @your-username/ts-logger-lib
+npm install ts-logger-lib
 # or
-yarn add @your-username/ts-logger-lib
+yarn add ts-logger-lib
 ```
-
-> **Note:** Replace `@your-username` with your actual npm scope or username.
 
 ---
 
@@ -43,7 +41,7 @@ yarn add @your-username/ts-logger-lib
 Import the desired logging functions into any TypeScript or JavaScript file:
 
 ```ts
-import { logInfo, logWarn, logError } from '@your-username/ts-logger-lib';
+import { logInfo, logWarn, logError } from 'ts-logger-lib';
 
 // INFO example
 logInfo('Application has started successfully');
