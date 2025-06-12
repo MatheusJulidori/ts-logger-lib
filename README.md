@@ -60,7 +60,7 @@ try {
 
 Each call will output to the console in this format:
 
-```
+```bash
 ### [2025-06-02 15:30:45] [INFO] ###
 Application has started successfully
 
